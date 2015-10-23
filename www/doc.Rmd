@@ -1,0 +1,44 @@
+---
+output: html_document
+theme: cerulean
+---
+
+# Background
+To some Chinese people, Abalone is a food you eat at special occasions like wedding banquets mostly because it is expensive.  It is a sea snail known to scientists as a gastropod mollusk in the Haliotidae family, along with whelks and sea slugs.  It's a univalve which means it just has a protective shell on one side of their bodies.  The other side attaches to any rocky surface to feed off of algae.
+
+Texturally, it's right between a scallop and squid with a crunchiness similar to a conch but closest to the sensation you get eating jellyfish.  You can eat them raw or cooked, like a clam, but grilling seems to work best. Pop them on any grill shell side-down, and it cooks in its own juices. The flavor is naturally buttery and salty, thanks to the salt water in which it lives. There's a chewiness to it, like a calamari steak, but that's not a bad thing.
+
+If you're going to eat abalone, the most important thing to remember is your wallet.  One of the largest can set you back more than $20.
+
+Chef Simon Koh Yong's obsession with abalone inspired him to take diving lessons to see for himself the habitat of the mollusk.  This app continues in the spirit of man's desire for "Good Eats", as The Food Network's Alton Brown calls it!
+
+# How to use the AbaloneApp
+The age of abalone can be determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope.  This app implements another method which involves using easy to obtain physical measurements to predict the age.
+
+## Simply specify
+
+1. If the abalone is an infant or not an infant?
+2. The mean size of the abalone’s length, diameter, and height (0.1 to 1)
+3. The weight of the shucked abalone (0.1 to 1.5)
+4. The weight of the shell (0.1 to 1.1)
+
+
+## Click Go!
+and you will get a predicted age, fortune, and a picture of your abalone of interest!
+
+
+Enjoy!
+
+#### References
+[Chinese people and Abalone](http://ask-a-chinese-guy.blogspot.com/2011/03/chinese-people-and-abalone.html)
+
+[Mad for Mollusks:What exactly is Abalone, and why do we love it so much?](http://www.foodrepublic.com/2014/05/19/mad-for-mollusks-what-exactly-is-abalone-and-why-do-we-love-it-so-much/)
+
+[For the love of abalone:an Asian story](http://www.reuters.com/article/2007/05/09/us-food-chefs-kohyoung-idUSSP22428820070509)
+
+[Abalone Data Set](https://archive.ics.uci.edu/ml/datasets/Abalone)
+
+[Photo by Jack Likins](http://www.tsra.org/news.php?viewStory=1063)
+
+[Linear Regression in R:Abalone Dataset](http://scg.sdsu.edu/linear-regression-in-r-abalone-dataset/)
+
